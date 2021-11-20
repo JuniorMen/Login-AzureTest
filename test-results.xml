@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.0220" tests="1" failures="0">
+  <testsuite name="Root Suite" timestamp="2021-11-20T20:15:53" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="probar login" timestamp="2021-11-20T20:15:53" tests="1" file="C:\Users\Usuario\AzureTest_Jr\Login-AzureTest\test.js" time="0.0130" failures="0">
+    <testcase name="probar login prueba contraseña y usuario" time="0.0050" classname="prueba contraseña y usuario">
+    </testcase>
+  </testsuite>
+</testsuites>
